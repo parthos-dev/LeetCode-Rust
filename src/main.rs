@@ -1,6 +1,6 @@
 mod problems;
-use problems::two;
+use problems::eight_hundred_eighty_four;
 
 fn main() {
-    two::run();
+    eight_hundred_eighty_four::run();
 }
